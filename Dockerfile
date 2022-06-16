@@ -1,4 +1,4 @@
-# Add a new comment to trigger build
+# Add a new comment to trigger build.
 FROM python:3.8-alpine
 
 COPY ./requirements.txt /app/requirements.txt
